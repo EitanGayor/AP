@@ -12,7 +12,7 @@ dependencies {
             "io.vavr:vavr",
             "javax.inject:javax.inject",
             "org.springframework:spring-context",
-            "com.sendgrid:sendgrid-java", 4.6.4 
+            "com.sendgrid:sendgrid-java:4.6.4",  
             'com.google.guava:guava'
     )
 
